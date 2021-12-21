@@ -38,3 +38,5 @@ API Link >> https://developers.themoviedb.org/3/movies/get-movie-details
 API formate>> https://api.themoviedb.org/3/movie/{movie_id}?api_key=<<api_key>>&language=en-US
 
 <<api_key>> PASTE your API key over here
+
+# installation create virtualenv in pycharm and use all file 
