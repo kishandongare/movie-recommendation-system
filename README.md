@@ -23,7 +23,7 @@ CountVectorization >>
 # 3 concept of cosine similarity
 Some of the popular similarity measures >> https://www.geeksforgeeks.org/measures-of-distance-in-data-mining/
 
-Cosine Similarity >> https://www.geeksforgeeks.org/measures-of-distance-in-data-mining/
+Cosine Similarity >> https://www.geeksforgeeks.org/cosine-similarity/
 
 # 4 Download Dataset
 Dataset >> https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
