@@ -1,4 +1,4 @@
-# movie-recommendation-system
+# Movie-Recommendation-System
 
 >> https://m-r-s.herokuapp.com/
 
@@ -20,7 +20,7 @@ CountVectorization >>
 
 2>>https://github.com/kishandongare/advance-nltk-practice/blob/main/nltk_part2.ipynb
 
-# 3 concept of cosine similarity
+# 3 Concept of cosine similarity
 Some of the popular similarity measures >> https://www.geeksforgeeks.org/measures-of-distance-in-data-mining/
 
 Cosine Similarity >> https://www.geeksforgeeks.org/cosine-similarity/
